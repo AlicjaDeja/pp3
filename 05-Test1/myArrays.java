@@ -22,12 +22,11 @@ public class myArrays {
         return count;
     }
 
-    // public static void main(String[] args){
-    //     int[] ar1 = {2,5,7,8,-10};
-    //     myArrays m = new myArrays(ar1);
-    //     System.out.println(even(ar1));
-    //     System.out.println(positiveOdd(ar1));
-    // }
+    public static void main(String[] args){
+        int[] ar1 = {2,5,7,8,-10};
+        System.out.println(even(ar1));
+        System.out.println(positiveOdd(ar1));
+    }
 
     
 }

@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch BMI",
+            "request": "launch",
+            "mainClass": "BMI",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CinemaTicket",
+            "request": "launch",
+            "mainClass": "CinemaTicket",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Date",
+            "request": "launch",
+            "mainClass": "Date",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Numbers",
+            "request": "launch",
+            "mainClass": "Numbers",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rectangles",
+            "request": "launch",
+            "mainClass": "Rectangles",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Smartphone",
+            "request": "launch",
+            "mainClass": "Smartphone",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Statistics",
+            "request": "launch",
+            "mainClass": "Statistics",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch SurfaceArea",
+            "request": "launch",
+            "mainClass": "SurfaceArea",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Temperature",
+            "request": "launch",
+            "mainClass": "Temperature",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Time",
+            "request": "launch",
+            "mainClass": "Time",
+            "projectName": "pp3_69a95d5a"
+        },
+        {
+            "type": "java",
+            "name": "Launch myArrays",
+            "request": "launch",
+            "mainClass": "myArrays",
+            "projectName": "pp3_69a95d5a"
+        }
+    ]
+}
